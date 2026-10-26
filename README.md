@@ -7,7 +7,7 @@
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=DiyarSari&hide_border=true&background=070D1A&stroke=3B82F6&ring=06B6D4&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=8CA0BC&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&titleColor=3B82F6&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://github-readme-stats-diyar16.vercel.app/api?username=DiyarSari&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=8CA0BC&bg_color=070D1A&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-diyar16.vercel.app/api?username=DiyarSari&show_icons=true&hide_rank=true&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=8CA0BC&bg_color=070D1A&card_width=500" alt="stats" />
 <img width="49%" src="https://github-readme-stats-diyar16.vercel.app/api/top-langs/?username=DiyarSari&layout=compact&langs_count=8&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=8CA0BC&bg_color=070D1A&card_width=500" alt="top langs" />
 </div>
 
