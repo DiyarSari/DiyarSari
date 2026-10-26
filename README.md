@@ -4,6 +4,17 @@
   <img alt="Diyar Sarı — Full Stack Software Developer" src="https://raw.githubusercontent.com/DiyarSari/DiyarSari/main/light.svg">
 </picture>
 
+### Featured projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [**rag-retrieval-eval**](https://github.com/DiyarSari/rag-retrieval-eval) | Benchmarks BM25, dense, hybrid and re-ranked retrieval on BEIR SciFact; hybrid RRF reaches 0.694 nDCG@10 and serves citation-grounded answers | Python · FastAPI · Sentence-Transformers · Claude API |
+| [**exactly-once-payments**](https://github.com/DiyarSari/exactly-once-payments) | Banking transfer API with idempotency keys, optimistic locking with retry and a double-entry ledger | Java 21 · Spring Boot 3 · PostgreSQL · Testcontainers |
+| [**analytics-assistant-case-study**](https://github.com/DiyarSari/analytics-assistant-case-study) | AI analytics chatbot where every number comes from the database, not the model | .NET 8 · React · PostgreSQL · Chrome Extension |
+| [**airline-passenger-satisfaction-ml**](https://github.com/DiyarSari/airline-passenger-satisfaction-ml) | Satisfaction prediction with SHAP explainability and external validation on real reviews | Python · scikit-learn · SHAP |
+| [**optical-jaw-tracking**](https://github.com/DiyarSari/optical-jaw-tracking) | Team research project (TÜSEB): low-cost jaw tracking with ArUco pose estimation streamed to Unity | Python · OpenCV · UDP · Unity |
+| [**restaurant-reservation-platform**](https://github.com/DiyarSari/restaurant-reservation-platform) | Booking platform with QR check-in, role-based panels and TR/EN support | PHP · MySQL |
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiyarSari/DiyarSari/output/github-snake-dark.svg" />
